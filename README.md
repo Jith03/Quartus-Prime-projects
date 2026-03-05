@@ -90,5 +90,3 @@ Possible extensions of this project:
 * Simple ALU implementation
 
 
-Electronics and Telecommunication Engineering Undergraduate
-University of Moratuwa
