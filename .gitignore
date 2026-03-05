@@ -1,0 +1,36 @@
+# Quartus Project Ignore Files
+
+# Output and database folders
+/db/
+/incremental_db/
+/output_files/
+/simulation/
+
+# Log and report files
+*.rpt
+*.txt
+
+# Backup files
+*.bak
+
+# System files
+*.qws
+*.sopcinfo
+*.jdi
+*.sld
+*.map
+*.sof
+*.pof
+*.summary
+*.done
+*.qdf
+*.rpt
+
+# ModelSim files
+*.wlf
+*.mpf
+*.do
+
+# Others
+*.log
+*.tmp
